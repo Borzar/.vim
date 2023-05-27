@@ -1,0 +1,7 @@
+{
+  "diagnostic.refreshOnInsertMode": true,
+  "colors.enable": true,
+  "highlight.trace": "verbose",
+  "diagnostic.virtualText": true,
+  "diagnostic.virtualTextCurrentLineOnly": false
+}
